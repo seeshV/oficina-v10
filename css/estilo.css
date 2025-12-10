@@ -1,0 +1,54 @@
+/* Oficina V10 - estilo customizado */
+:root{--bg:#0b0b0b;--card:#0f1720;--accent:#d97706;--muted:#9ca3af}
+body{background:linear-gradient(180deg,#020617 0%, #071028 100%);color:#e6edf3;font-family:Inter,Segoe UI,Arial,sans-serif}
+.navbar-brand{font-weight:700}
+.container.page{max-width:1100px}
+.card{background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.03))}
+h2{color:var(--accent)}
+.btn-primary{background:var(--accent);border:0}
+.table th{background:rgba(255,255,255,0.03)}
+a.link-light{color:#ffd9a6}
+@media(max-width:600px){ .container.page{padding:10px} }
+
+/* ----------LABEL (Título dos campos)---------- */
+body {
+    background: red !important;
+}
+
+
+.form-label,
+label {
+    color: #d97706 !important;
+    font-weight: 600 !important;
+}
+
+/* ----------INPUTS (corretivo do texto invisível)---------- */
+.form-control {
+    background-color: #1f1f1f !important;
+    color: #fff !important;
+    border: 1px solid #444 !important;
+}
+
+.form-control:focus {
+    background-color: #2a2a2a !important;
+    color: #fff !important;
+    border-color: #0d6efd !important;
+}
+
+/* Forçar visibilidade do link no login */
+.login-extra-link {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    display: inline-block !important;
+    padding: 6px 0 !important;
+}
+
+.login-extra-link:hover {
+    color: #ffb454 !important;
+}
+
+.login-extra-link:visited {
+    color: #ffffff !important;
+}
+
