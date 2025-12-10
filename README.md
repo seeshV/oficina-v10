@@ -72,30 +72,7 @@ Senha: senha123
 
 Ou cadastre um novo usuário pelo sistema.
 
-📂 Estrutura do Projeto
-oficina/
-│
-├── css/
-│   └── estilo.css              # Tema visual V10
-│
-├── php/
-│   ├── config.php              # Configurações
-│   ├── conexao.php             # Conexão com MySQL
-│   ├── create_db.sql           # Script do BD
-│   ├── autentica.php           # Login
-│   ├── inserir_*.php           # Inserts
-│   ├── atualizar_*.php         # Updates
-│   └── excluir_*.php           # Deletes
-│
-├── restrito/
-│   ├── menu.php
-│   ├── lista_*.php
-│   ├── inserir_*.php
-│   └── editar_*.php
-│
-├── index.php
-├── login.php
-└── logout.php
+<img width="364" height="441" alt="image" src="https://github.com/user-attachments/assets/75406c81-15c0-498e-a39e-655080bc49d4" />
 
 🔐 Segurança
 
