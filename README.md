@@ -6,6 +6,7 @@ Inclui autenticação, CRUD completo, tema escuro moderno (V10), MySQL e PHP.
 
 📸 Demonstração
 <img src="https://github.com/user-attachments/assets/f51af2a9-1859-4a1c-8a5f-ced4c548fc99" width="900"/> <img src="https://github.com/user-attachments/assets/e680f93c-8d69-49e3-96e6-af05f2191953" width="900"/> <img src="https://github.com/user-attachments/assets/1ab2a4c0-958a-4fb4-9d72-bcc35957e8e5" width="900"/> <img src="https://github.com/user-attachments/assets/a8d2fedf-5f7e-4f9a-8398-9c2119255149" width="900"/>
+
 🔧 Requisitos
 
 XAMPP (Apache + MySQL)
