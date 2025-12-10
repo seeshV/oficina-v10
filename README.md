@@ -35,7 +35,7 @@ Tabela servicos
 Usuário inicial padrão:
 Usuário	Senha
 admin	senha123
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------A senha já está criptografada.
+A senha já está criptografada.
 
 Para gerar uma senha nova:
 php -r "echo password_hash('minhasenha', PASSWORD_DEFAULT);"
